@@ -1,4 +1,5 @@
 # Hi there! 👋 I'm Ripion Chakma
+# I am a learner
 
 Welcome to my GitHub profile! I'm passionate about [mention your interests or the field you're in]. Here are a few things about me:
 
