@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm passionate about software development and buil
 - 😄 Pronouns: [share your pronouns if you'd like].
 - ⚡ Fun fact: [share an interesting or fun fact about yourself].
 
-### Technologies and Tools
+### Languages and Tools
 
-Here are some of the technologies and tools I work with:
+Here are some of the languages and tools I work with:
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
