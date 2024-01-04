@@ -5,10 +5,12 @@ Welcome to my GitHub profile! I'm passionate about software development and buil
 - 🔭 I’m currently working on [mention your current projects or focus].
 - 🌱 I’m currently learning Django, MySQL, SQLite, PostgreSQL, JavaScript, HTML, and CSS.
 - 👯 I’m looking to collaborate on projects related to web development and software engineering.
-- 💬 Ask me about data structures and algorithms(DSA) in C++, OOP in Python!
-- 📫 How to reach me: [provide your preferred contact information or social media profiles].
-- 😄 Pronouns: [share your pronouns if you'd like].
-- ⚡ Fun fact: [share an interesting or fun fact about yourself].
+- 💬 Ask me about data structures and algorithms (DSA) in C++, or Object-Oriented Programming (OOP) in Python!
+
+### Goals for the Future
+
+- **2023 Target:** Learn Data Structures and Algorithms (DSA) ✅
+- **2024 Target:** Become a Full Stack Developer
 
 ### Languages and Tools
 
@@ -22,9 +24,9 @@ Here are some of the languages and tools I work with:
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
