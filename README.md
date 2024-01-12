@@ -2,10 +2,9 @@
 
 Welcome to my GitHub profile! I'm passionate about software development and building innovative solutions. Here are a few things about me:
 
-- 🔭 I’m currently working on [mention your current projects or focus].
-- 🌱 I’m currently learning Django, MySQL, SQLite, PostgreSQL, JavaScript, HTML, and CSS.
-- 👯 I’m looking to collaborate on projects related to web development and software engineering.
-- 💬 Ask me about data structures and algorithms (DSA) in C++, or Object-Oriented Programming (OOP) in Python!
+- 🔭 I’m currently learning Data Structure and Algorithms to advance my coding skills
+- 🌱 I’m currently learning Django, MySQL, SQLite, PostgreSQL, JavaScript, HTML, and CSS
+- 👯 I’m looking to collaborate on projects related to web development and software engineering
 
 ### Goals for the Future
 
