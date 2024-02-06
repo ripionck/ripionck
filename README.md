@@ -3,12 +3,12 @@
 Welcome to my GitHub profile! I'm passionate about software development and building innovative solutions. Here are a few things about me:
 
 - 🔭 I’m currently learning **Data Structure and Algorithms** to advance my coding skills
-- 🌱 I’m currently learning **Django, MySQL, SQLite, PostgreSQL, JavaScript, HTML, and CSS**
-- 👯 I’m looking to collaborate on projects related to web development and software engineering
+- 🌱 I’m currently learning **Python, Django, Django REST Framework, SQL, MySQL, SQLite, PostgreSQL, JavaScript, and React**
+- 👯 I’m looking to collaborate on projects related to web development and software engineering.
 
 ### Goals for the Future
 
-- **2023 Target:** Learn Data Structures and Algorithms (DSA) ✅
+- **2023 Target:** Learn Basic Data Structures and Algorithms (DSA) ✅
 - **2024 Target:** Become a Full Stack Developer
 
 <h3 align="left">Connect with me:</h3>
@@ -64,6 +64,9 @@ Welcome to my GitHub profile! I'm passionate about software development and buil
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    </a>
+    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://icon.icepanel.io/Technology/svg/NPM.svg" alt="Git" width="40" height="40"/>
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
