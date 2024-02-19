@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about software development and buil
 ### Goals for the Future
 
 - **2023 Target:** Learn Basic Data Structures and Algorithms (DSA) ✅
-- **2024 Target:** Become a Full Stack Developer
+- **2024 Target:** Become a Backend Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
