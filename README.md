@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm passionate about software development and buil
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
     </a>
      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://icon.icepanel.io/Technology/svg/SQL-Developer.svg" alt="SQL" width="40" height="40"/>
+        <img src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" alt="SQL" width="40" height="40"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
