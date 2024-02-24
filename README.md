@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! I'm passionate about software development and building innovative solutions. Here are a few things about me:
 
-- 🔭 I’m currently learning **Data Structure and Algorithms** to advance my coding skills
-- 🌱 I’m currently learning **Python, Django, Django REST Framework, SQL, MySQL, SQLite, PostgreSQL, JavaScript, and React**
+- 🔭 I’m currently learning **Data Structure and Algorithms** to advance my coding skills.
+- 🌱 I’m currently working with **Python, Django, Django REST Framework, SQL, MySQL, PostgreSQL, JavaScript, React, Tailwind CSS and Git**
 - 👯 I’m looking to collaborate on projects related to web development and software engineering.
 
 ### Goals for the Future
