@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about software development and building innovative solutions. Here are a few things about me:
 
 - 🔭 I’m currently learning **Data Structure and Algorithms** to advance my coding skills.
-- 🌱 I’m currently learning **Django, Django REST Framework, MySQL, PostgreSQL, React, Tailwind CSS and Git.**
+- 🌱 I’m currently learning **Java, Spring Boot, PostgreSQL, Docker and Git.**
 - 👯 I’m looking to collaborate on projects related to Web Development and Software Development.
 
 
@@ -52,6 +52,12 @@ Welcome to my GitHub profile! I'm passionate about software development and buil
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
     </a>
+    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/java/index.html" alt="Java" width="40" height="40"/>
+    </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/springio/index.html" alt="Spring Boot" width="40" height="40"/>
+    </a>
      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" alt="SQL" width="40" height="40"/>
     </a>
@@ -63,6 +69,9 @@ Welcome to my GitHub profile! I'm passionate about software development and buil
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.svgrepo.com/svg/349342/docker" alt="Docker" width="40" height="40"/>
     </a>
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
         <img src="https://icon.icepanel.io/Technology/svg/NPM.svg" alt="Git" width="40" height="40"/>
