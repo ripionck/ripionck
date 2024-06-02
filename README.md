@@ -1,11 +1,6 @@
-# Hi there! 👋 I'm Ripion Chakma
+## Hi there! 👋 I'm Ripion Chakma
 
-Welcome to my GitHub profile! I'm passionate about software development and building innovative solutions. Here are a few things about me:
-
-- 🔭 I’m currently learning **Data Structure and Algorithms** to advance my coding skills.
-- 🌱 I’m currently learning **Java, Spring Boot, PostgreSQL, Docker and Git.**
-- 👯 I’m looking to collaborate on projects related to Web Development and Software Development.
-
+I'm a programming enthusiast, constantly learning and building innovative software solutions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
