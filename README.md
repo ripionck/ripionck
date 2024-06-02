@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm passionate about software development and buil
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripionck&show_icons=true&locale=en" alt="ripionck" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripionck&" alt="ripionck" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
