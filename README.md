@@ -9,7 +9,7 @@ I'm a programming enthusiast, constantly learning and building innovative softwa
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ripionck&show_icons=true&locale=en&layout=compact" alt="ripionck" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripionck&show_icons=true&locale=en&layout=compact" alt="ripionck" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripionck&show_icons=true&locale=ent" alt="ripionck" /></p>
 
 
 
