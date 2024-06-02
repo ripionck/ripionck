@@ -6,9 +6,6 @@ I'm a programming enthusiast, constantly learning and building innovative softwa
 <p align="left"><a href="https://linkedin.com/in/ripionck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ripionck" height="30" width="40" /></a></p>
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ripionck&show_icons=true&locale=en&layout=compact" alt="ripionck" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ripionck&show_icons=true&locale=en" alt="ripionck" /></p>
-
 ![](https://github.com/ripionck/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/ripionck/github-stats/blob/master/generated/languages.svg)
 
