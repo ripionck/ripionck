@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about software development and buil
 <a href="https://linkedin.com/in/ripionck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ripionck" height="30" width="40" /></a>
 </p>
 
-
+![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ripionck&show_icons=true&locale=en&layout=compact" alt="ripionck" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripionck&show_icons=true&locale=en" alt="ripionck" /></p>
