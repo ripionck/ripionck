@@ -9,8 +9,8 @@ I'm a programming enthusiast, constantly learning and building innovative softwa
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ripionck&show_icons=true&locale=en&layout=compact" alt="ripionck" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ripionck&show_icons=true&locale=en" alt="ripionck" /></p>
 
-![](https://raw.githubusercontent.com/ripionck/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/ripionck/github-stats/master/generated/languages.svg)
+![](https://github.com/tranHieuDev23/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/tranHieuDev23/github-stats/blob/master/generated/languages.svg)
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
