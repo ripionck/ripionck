@@ -11,8 +11,7 @@ I'm a programming enthusiast, constantly learning and building innovative softwa
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ripionck&show_icons=true&locale=en" alt="ripionck" /></p>
 
-
-
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
