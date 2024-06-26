@@ -48,6 +48,9 @@ I'm a programming enthusiast, constantly learning and building innovative softwa
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
     </a>
+    <a href="https://go.dev/learn" target="_blank" rel="noreferrer">
+      <img src="https://devicon-website.vercel.app/api/go/original.svg" alt="Golang" width="40" height="40"/>
+    </a>
      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" alt="SQL" width="40" height="40"/>
     </a>
