@@ -22,7 +22,7 @@ I'm a programming enthusiast, constantly learning and building innovative softwa
         <img src="https://devicon-website.vercel.app/api/bootstrap/original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/>
+        <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" alt="Tailwind CSS" width="40" height="40"/>
     </a>
     <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
         <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" alt="C++" width="40" height="40"/>
