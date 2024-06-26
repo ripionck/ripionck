@@ -31,7 +31,7 @@ I'm a programming enthusiast, constantly learning and building innovative softwa
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+        <img src="https://devicon-website.vercel.app/api/django/plain.svg" alt="Django" width="40" height="40"/>
     </a>
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
         <img src="https://icon.icepanel.io/Technology/svg/Django-REST.svg" alt="Django Rest Framework" width="40" height="40"/>
