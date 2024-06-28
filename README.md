@@ -64,7 +64,7 @@ I'm a programming enthusiast, constantly learning and building innovative softwa
         <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="Git" width="40" height="40"/>
     </a>
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg" alt="Git" width="40" height="40"/>
+        <img src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg" alt="NPM" width="40" height="40"/>
     </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
