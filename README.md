@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Ripion Chakma
 
-I'm a programming enthusiast, constantly learning and building innovative software solutions.
+I'm a programming enthusiast, constantly learning and passionate about scalable systems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://linkedin.com/in/ripionck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ripionck" height="30" width="40" /></a></p>
@@ -48,6 +48,8 @@ I'm a programming enthusiast, constantly learning and building innovative softwa
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
     </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="40" height="40"/>  </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="Git" width="40" height="40"/>
     </a>
