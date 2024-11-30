@@ -22,13 +22,13 @@ I'm a programming enthusiast, constantly learning and passionate about scalable 
         <img src="https://devicon-website.vercel.app/api/bootstrap/original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="Tailwind CSS" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="JavaScript" width="40" height="40"/>
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://devicon-website.vercel.app/api/react/original-wordmark.svg" alt="React" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" width="40" height="40"/>
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://devicon-website.vercel.app/api/python/original.svg" alt="Python" width="40" height="40"/>
@@ -40,10 +40,7 @@ I'm a programming enthusiast, constantly learning and passionate about scalable 
         <img src="https://icon.icepanel.io/Technology/svg/Django-REST.svg" alt="Django Rest Framework" width="40" height="40"/>
     </a>
     <a href="https://go.dev/learn" target="_blank" rel="noreferrer">
-      <img src="https://devicon-website.vercel.app/api/go/original.svg" alt="Golang" width="40" height="40"/>
-    </a>
-     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" alt="SQL" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Golang" width="40" height="40"/>
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
