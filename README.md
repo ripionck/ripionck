@@ -22,7 +22,7 @@ I'm a programming enthusiast, constantly learning and passionate about scalable 
         <img src="https://devicon-website.vercel.app/api/bootstrap/original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="Tailwind CSS" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="JavaScript" width="40" height="40"/>
@@ -43,10 +43,10 @@ I'm a programming enthusiast, constantly learning and passionate about scalable 
       <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Golang" width="40" height="40"/>
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="40" height="40"/>  </a>
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>  </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
     </a>
