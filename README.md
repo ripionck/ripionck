@@ -30,9 +30,6 @@ I'm a programming enthusiast, constantly learning and building innovative softwa
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://devicon-website.vercel.app/api/react/original-wordmark.svg" alt="React" width="40" height="40"/>
     </a>
-    <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-        <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" alt="C++" width="40" height="40"/>
-    </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://devicon-website.vercel.app/api/python/original.svg" alt="Python" width="40" height="40"/>
     </a>
@@ -41,12 +38,6 @@ I'm a programming enthusiast, constantly learning and building innovative softwa
     </a>
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
         <img src="https://icon.icepanel.io/Technology/svg/Django-REST.svg" alt="Django Rest Framework" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
-    </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
     </a>
     <a href="https://go.dev/learn" target="_blank" rel="noreferrer">
       <img src="https://devicon-website.vercel.app/api/go/original.svg" alt="Golang" width="40" height="40"/>
