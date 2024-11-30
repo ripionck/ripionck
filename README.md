@@ -28,7 +28,7 @@ I'm a programming enthusiast, constantly learning and passionate about scalable 
         <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="JavaScript" width="40" height="40"/>
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
