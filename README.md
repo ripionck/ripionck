@@ -31,7 +31,7 @@ I'm a programming enthusiast, constantly learning and passionate about scalable 
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" width="40" height="40"/>
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://devicon-website.vercel.app/api/python/original.svg" alt="Python" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="40" height="40"/>
@@ -43,15 +43,12 @@ I'm a programming enthusiast, constantly learning and passionate about scalable 
       <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Golang" width="40" height="40"/>
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" width="40" height="40"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="40" height="40"/>  </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="Git" width="40" height="40"/>
-    </a>
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg" alt="NPM" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
     </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
@@ -60,6 +57,6 @@ I'm a programming enthusiast, constantly learning and passionate about scalable 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
     </a>
      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://devicon-website.vercel.app/api/docker/original.svg" alt="Docker" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
     </a>
 </p>
