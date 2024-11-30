@@ -34,13 +34,13 @@ I'm a programming enthusiast, constantly learning and passionate about scalable 
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="40" height="40"/>
     </a>
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
         <img src="https://icon.icepanel.io/Technology/svg/Django-REST.svg" alt="Django Rest Framework" width="40" height="40"/>
     </a>
     <a href="https://go.dev/learn" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Golang" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" width="40" height="40"/>
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
