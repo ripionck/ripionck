@@ -54,9 +54,6 @@ I'm a programming enthusiast, constantly learning and building innovative softwa
      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" alt="SQL" width="40" height="40"/>
     </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
     </a>
