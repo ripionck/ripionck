@@ -34,7 +34,7 @@ I'm a programming enthusiast, constantly learning and passionate about scalable 
         <img src="https://devicon-website.vercel.app/api/python/original.svg" alt="Python" width="40" height="40"/>
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://devicon-website.vercel.app/api/django/plain.svg" alt="Django" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="40" height="40"/>
     </a>
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
         <img src="https://icon.icepanel.io/Technology/svg/Django-REST.svg" alt="Django Rest Framework" width="40" height="40"/>
